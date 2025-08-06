@@ -1,4 +1,4 @@
 # CodeAlpha_Task
 
 Task1 
-To Do LIst was successfully completed
+To Do List was successfully completed
